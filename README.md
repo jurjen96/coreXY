@@ -1,8 +1,11 @@
 # CoreXY 3D printer
 An open source 3D printer project
 
-# Goal
-Design and build a coreXY printer.
+# Planning
+
+#Current status
+
+![alt text](printer_render.png.png "Render printer")
 
 # Credits:
 
@@ -14,3 +17,5 @@ Design and build a coreXY printer.
  -  **Ryan**: [MGN 12h linear guide](https://grabcad.com/library/hiwin-mgn-12h-linear-guide-1 "Grabcad mgn 12h") 
  -  **Paulo Santos**: [GT2 pulley](https://grabcad.com/library/polia-gt2-20-dentes-com-rolamento-gt2-pulley-with-bearing-1 "Grabcad GT2 pulley") 
  -  **Motedis**: [2020 extrusion](http://www.motedis.nl/shop/table_cats.php?table_id=16 "Motedis 2020 extrusion")  
+
+**Notice: This is a work in progress. Use at your own risk!**
