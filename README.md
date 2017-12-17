@@ -1,7 +1,10 @@
-# CoreXY 3D printer
-An open source 3D printer project
+# Introduction
 
-Print volume: 200x200x300 mm
+This repository will describe the process of designing and building an open source 3D printer made in Autodesk Inventor 2018. I know that Autodesk Inventor is not open source, but when the first version is ready, I will put STEP files in this repo so that everyone can edit the files.
+
+**Some specs:**
+ -  Print volume: 200x200x300 mm
+ -  Frame size: 340x390x500 mm
 
 # Planning
 
@@ -9,6 +12,7 @@ Print volume: 200x200x300 mm
  -  Gather all the required parts
  -  Build the printer
  -  Test the printer
+ -  Optional: redesign parts and upgrade the printer
  -  Implement a Raspberry Pi
  -  Implement speech recognition, so that the printer can be controlled by voice
 
@@ -16,19 +20,21 @@ Print volume: 200x200x300 mm
 
 ![alt text](printer_render.png "Render printer")
 
+I'm currently printing all the blue parts and test them if they will fit into the end design. In the meantime, the parts are ordered and are on their way.
+
 # BOM (**not final**)
 
 Mechanical:
  -  1x E3DV6 (clone)
  -  1x Tevo titan extruder
  -  2020 aluminium extrusion:
-   -  4x 500 mm 
-   -  4x 350 mm 
-   -  6x 320 mm
-   -  2x 290 mm
-   -  1x 240 mm
+   *  4x 500 mm 
+   *  4x 350 mm 
+   *  6x 320 mm
+   *  2x 290 mm
+   *  1x 240 mm
  -  2040 aluminium extrusion:
-   -  2x 350 mm
+   *  2x 350 mm
  -  1x PTFE tube 1m
  -  1x 430 mm leadscrew
  -  2x 500 mm chrome plated rod
