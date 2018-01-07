@@ -1,10 +1,10 @@
 # Introduction
 
-This repository will describe the process of designing and building an open source 3D printer made in Autodesk Inventor 2018. I know that Autodesk Inventor is not open source, but when the first version is ready, I will put STEP files in this repo so that everyone can edit the files.
+This repository will describe the process of designing and building an open source 3D printer made in Autodesk Inventor 2018. I am aware that Autodesk Inventor is not open source, but when the first version is ready, I will put STEP files in this repo so that everyone can edit the files.
 
 **Some specs:**
  -  Print volume: 200x200x300 mm
- -  Frame size: 340x390x500 mm
+ -  Frame size: 390x400x500 mm
 
 # Planning
 
@@ -18,9 +18,9 @@ This repository will describe the process of designing and building an open sour
 
 # Current status
 
-![alt text](printer_render.png "Render printer")
+![alt text](printer_render_v2.png "Render printer")
 
-I'm currently printing all the blue parts and test them if they will fit into the end design. In the meantime, the parts are ordered and are on their way.
+Tested most of the 3D printed parts and updated their design. Still waiting for some parts to arrive.
 
 # BOM (**not final**)
 
@@ -28,13 +28,13 @@ Mechanical:
  -  1x E3DV6 (clone)
  -  1x Tevo titan extruder
  -  2020 aluminium extrusion:
-   *  4x 500 mm 
-   *  4x 350 mm 
-   *  6x 320 mm
-   *  2x 290 mm
-   *  1x 240 mm
+    *  4x 500 mm 
+    *  4x 350 mm 
+    *  6x 320 mm
+    *  2x 290 mm
+    *  1x 240 mm
  -  2040 aluminium extrusion:
-   *  2x 350 mm
+    *  2x 350 mm
  -  1x PTFE tube 1m
  -  1x 430 mm leadscrew
  -  2x 500 mm chrome plated rod
