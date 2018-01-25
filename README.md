@@ -1,6 +1,6 @@
 # Introduction
 
-This repository will describe the process of designing and building an open source 3D printer made in Autodesk Inventor 2018. I am aware that Autodesk Inventor is not open source, but when the first version is ready, I will put STEP files in this repo so that everyone can edit the files.
+This repository will describe the process of designing and building an open source 3D printer designed in Autodesk Inventor 2018. I am aware that Autodesk Inventor is not open source, but when the first version is ready, I will put STEP files in this repo so that everyone can edit the files.
 
 **Some specs:**
  -  Print volume: 200x200x300 mm
@@ -9,7 +9,6 @@ This repository will describe the process of designing and building an open sour
 # Planning
 
  -  Finish 3D design
- -  Gather all the required parts
  -  Build the printer
  -  Test the printer
  -  Optional: redesign parts and upgrade the printer
@@ -18,43 +17,17 @@ This repository will describe the process of designing and building an open sour
 
 # Current status
 
+The first prototype is almost ready to be tested. Currently, the X-carriage has to be redesigned because the 3D printed carriage wat not able to withstand the pulling force of the belts.
+
+## Prototype:
+
+![alt text](printer_prototype_1.jpg "Prototype 2")
+
+![alt text](printer_prototype_2.jpg "Prototype 1")
+
+## Render of design:
+
 ![alt text](printer_render_v2.png "Render printer")
-
-Tested most of the 3D printed parts and updated their design. Still waiting for some parts to arrive.
-
-# BOM (**not final**)
-
-Mechanical:
- -  1x E3DV6 (clone)
- -  1x Tevo titan extruder
- -  2020 aluminium extrusion:
-    *  4x 500 mm 
-    *  4x 350 mm 
-    *  6x 320 mm
-    *  2x 290 mm
-    *  1x 240 mm
- -  2040 aluminium extrusion:
-    *  2x 350 mm
- -  1x PTFE tube 1m
- -  1x 430 mm leadscrew
- -  2x 500 mm chrome plated rod
- -  2x LMF8LUU
- -  8x GT2 Idler 20 Teeth Pulley 5 mm bore
- -  2x GT2 20 Teeth Pulley 5mm shaft
- -  1x GT2-6mm Belt 5 m
- -  50x M4 T-nut
- -  1x Borosilicate Glass Plate 213x200x3mm 
-
-Electrical:
- -  4x NEMA17
- -  1x 12v Heat bed 220x220 mm
- -  1x MKS Base v1.4
- -  1x 12V 40w Cartridge heater 
- -  1x NTC 3950 100K ohm 
- -  4x Endstops
- -  1x 12 AWG 1 m RED
- -  1x 12 AWG 1 m BLACK
- -  1x Power supply 220v to 12v
 
 # Credits:
 
