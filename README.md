@@ -49,4 +49,8 @@ will be replaced with belts with metal in it to add more rigidity to the printer
  -  **Motedis**: [2020 extrusion](http://www.motedis.nl/shop/table_cats.php?table_id=16 "Motedis 2020 extrusion")  
  -  **Jacob**: [2004 LCD](https://grabcad.com/library/ramps-2004-lcd-prusa-reprap-screen-1-4-1 "Grabcad 2004 LCD")
 
+This projects makes use of the Marlin firmware which is published under the
+GPLv3 license. More information about the Marlin firmware  can be found
+[here](http://marlinfw.org/). 
+
 **Notice: This is a work in progress. Use at your own risk!**
