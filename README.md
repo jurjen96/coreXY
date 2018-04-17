@@ -14,7 +14,7 @@ STEP files in this repo so that everyone can edit the files.
  -  ~~Design initial 3D design~~
  -  ~~Build the printer~~
  -  Test the printer
- -  Optional: redesign parts and upgrade the printer
+ -  Redesign parts and upgrade the printer
  -  Implement a Raspberry Pi
  -  Implement speech recognition, so that the printer can be controlled by voice
 
@@ -23,15 +23,15 @@ STEP files in this repo so that everyone can edit the files.
 The printer is put together and is producing already usable results (example
 can be found [here](#printResult)). The next step is to redesign the x-carriage
 because it is still not easy to attach the belts to it. Also, all the black belts
-will be replaced with belts with metal in it to add more rigidity to the printer
+will be replaced with belts with metal in it to add more rigidity to the printer.
 
-<img src="Images/printer_photo_1.jpg" width="500" />
+<img src="Images/printer_photo_1.jpg" width="600" />
 
-<img src="Images/printer_photo_2.jpg" width="500" />
+<img src="Images/printer_photo_2.jpg" width="600" />
 
 ## Render of design:
 
-<img src="Images/printer_render_v2.png" width="500" />
+<img src="Images/printer_render_v2.png" width="600" />
 
 ## <a name="printResult"></a> Print results:
 
